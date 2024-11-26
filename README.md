@@ -1,2 +1,11 @@
-# MyMusicApp
- # YouTube MP3 Downloader (Educational Purpose Only)  Questo progetto è un'applicazione creata **esclusivamente a scopo educativo** e come esercizio personale per imparare a sviluppare applicazioni desktop con funzionalità di rete.  ⚠️ **Disclaimer Legale**: - Questo software non è destinato all'uso per scaricare contenuti protetti da copyright o violare i Termini di Servizio di YouTube o altre piattaforme. - L'uso di questo software per scaricare contenuti protetti da copyright è strettamente proibito. - L'autore non si assume alcuna responsabilità per l'uso improprio di questo codice.  **Nota**: Questo progetto è stato sviluppato solo come esempio dimostrativo e non è destinato all'uso in ambienti di produzione. Gli utenti sono incoraggiati a rispettare tutte le leggi sul copyright applicabili.
+# MyMusicApp - YouTube MP3 Downloader (Educational Purpose Only)
+
+This project is a **desktop application created exclusively for educational purposes** and serves as a personal exercise to learn how to develop desktop applications using C#.
+
+### **Legal Disclaimer**:
+- This software is not intended for downloading copyrighted content or violating YouTube's Terms of Service or other platform rules.
+- Using this software to download copyrighted content is strictly prohibited.
+- The author assumes no responsibility for the improper use of this code.
+
+### **Note**:
+This project was developed solely as a demonstration and is not intended for use in production environments. Users are encouraged to follow all applicable copyright laws.
